@@ -3,9 +3,9 @@ This project focuses on analyzing stock market data to uncover trends, evaluate 
 
 By using Python-based this analysis helps identify:
 
-Stock price patterns over time
-Volatility and momentum
-Correlations with market indices
-Opportunities for long-term or short-term investment
-Technical indicators, machine learning models for prediction
-Portfolio optimization.
+1. Stock price patterns over time
+2. Volatility and momentum
+3. Correlations with market indices
+4. Opportunities for long-term or short-term investment
+5. Technical indicators, machine learning models for prediction
+6. Portfolio optimization.
