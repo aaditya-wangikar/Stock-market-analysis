@@ -9,3 +9,5 @@ By using Python-based this analysis helps identify:
 4. Opportunities for long-term or short-term investment
 5. Technical indicators, machine learning models for prediction
 6. Portfolio optimization.
+
+git tag <stock market>
